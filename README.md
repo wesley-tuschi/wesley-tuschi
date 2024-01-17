@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=levituschi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=true" /></div>  
 
-- 🔭 I'm currently working at **MediaMonks.Brasil** and studying at**Faculdade Descomplica**
+- 🔭 I'm currently working at **MediaMonks.Brasil** and studying at **Faculdade Descomplica**
 - 💻 I'm passionate about technology, games and innovation.
 - 🌱 I’m currently learning everything related to full stack development and CyberSecurity.
 - ⚡ Fun fact: My nickname was 360 because I fall down stairs a lot.
